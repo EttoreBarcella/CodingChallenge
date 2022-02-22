@@ -1,0 +1,72 @@
+body{
+  background: url(challengeimmagini/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background{
+  width: 800px;
+  margin: auto;
+  border-radius: 15px;
+  background-color: rgba(0,0,0,0.6);
+
+}
+
+.containertesto{
+  width: 700px;
+  margin: auto;
+  margin-top: 50px;
+
+}
+
+header{
+  color: #4ffe08;
+  text-align: center;
+}
+
+.logo{
+  width: 200px;
+}
+
+.navigazione {
+
+  display: block;
+  text-align: center;
+  background-color: #4ffe08;
+  padding: 10px ;
+}
+
+main{
+
+  color: white;
+
+}
+
+span > h2{
+  display: inline-block;
+}
+
+#freccia:before{
+  content: "\2192";
+}
+
+#gino22 {
+    display: block;
+    margin-right: 400px;
+    border-width: 10px;
+    border-color: orange;
+  }
+
+#Mike24 {
+    display: block;
+    margin-right: 200px;
+    border-width: 10px;
+    border-color: green;
+  }
+
+#Fede154 {
+    display: block;
+    margin-right: 600px;
+    border-width: 10px;
+    border-color: red;
+  }
